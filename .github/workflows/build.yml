@@ -71,3 +71,4 @@ jobs:
           asset_path: /tmp/luci-app-diskman_${{ steps.build_ipk.outputs.tag_name }}_all.ipk
           asset_name: luci-app-diskman_${{ steps.build_ipk.outputs.tag_name }}_all.ipk
           asset_content_type: application/octet-stream
+
